@@ -19,7 +19,7 @@ This is a RESTful API for booking appointments, managing availability, and gener
 ## 🛠️ Tech Stack
 
 - PHP 8+
-- Laravel 10+
+- Laravel 12+
 - MySQL 
 - tymon/jwt-auth
 - Laravel Service Classes
